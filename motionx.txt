@@ -1,7 +1,7 @@
 [MotionX]
 ! Version: 201903140000
 ! Title: MotionX
-! Homepage: https://drive.google.com/file/d/1TLHvrJGQu4q9Z99aMqZIY4dXmfVo_-DK/view?usp=sharing
+! Homepage: https://github.com/alj333/DNSBL/blob/master/motionx.txt
 ! License: Public Domain
 ! Expires: 7 days
 !
